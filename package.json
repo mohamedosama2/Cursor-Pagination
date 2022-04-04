@@ -29,9 +29,11 @@
     "@nestjs/mongoose": "^9.0.2",
     "@nestjs/platform-express": "^8.0.0",
     "apollo-server-express": "2.x.x",
-    "graphql": "^15.4.0",
+    "graphql": "^15.8.0",
     "graphql-relay": "^0.10.0",
     "mongoose": "^6.2.3",
+    "mongoose-autopopulate": "^0.16.1",
+    "mongoose-paginate-v2": "^1.6.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
